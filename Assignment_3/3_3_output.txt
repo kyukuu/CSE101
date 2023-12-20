@@ -1,0 +1,20 @@
+File Name: file1 
+Score: 11.277777777777777 
+Top 5 most used words: ['this', 'is', 'a', 'text', 'file.']
+5 randomly generated word: ['anything', 'will', 'text', 'is', 'text']
+
+File Name: file2 
+Score: 8.318978759468191 
+Top 5 most used words: ['the', 'my', 'a', 'to', 'of']
+5 randomly generated word: ['is', 'stickers', 'with', 'a', 'is']
+
+File Name: file3 
+Score: 4.919852941176471 
+Top 5 most used words: ['morning', 'rule', 'first', 'sea', 'spirit']
+5 randomly generated word: ['every', 'deep', 'night', 'make', 'deep']
+
+File Name: file4 
+Score: 6.337756097560975 
+Top 5 most used words: ['waters', 'very', 'appear', 'subdue', 'day']
+5 randomly generated word: ['forth', 'subdue', 'female,', 'fly', 'fly']
+

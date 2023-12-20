@@ -1,0 +1,14 @@
+{"parth":[{
+        "address": "Dwarka",
+        "phone": "9810345677",
+        "email": "maybe@constantcontemplation.ac.in"},{"address": "IIITD",
+        "phone": "9810345678",
+        "email": "maybe@constantcontemplation.ac.in"}],
+    "swarnima":[{
+        "address": "Ahmedabad",
+        "phone": "9867485763",
+        "email": "who@kyuku.com"}],
+    "arnav": [{
+        "address": "Chennai",
+        "phone": "7876656234",
+        "email": "hahaha@wohoo.com"}]}

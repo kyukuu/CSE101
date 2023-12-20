@@ -1,0 +1,28 @@
+Advantages of using OO
+1. Specifying multiple courses eg- IP, IHCI, DC etc will be easier. It makes extending the functionality of the given code further, easier.
+2. All the variables in a class are linked to the main object via self.variable. This makes calling variables very efficient. You can even call a variable used in one method into another method without getting involved with global, which is nice.
+
+Advantages of using Dictionaries
+1. Data is read off more intuitively from the text file and converted into a dictionary. Though this might also be a personal bias due to more familiarity with dictionaries.
+2. Using dictionaries doesn't require explicit variable declarations, create variables as and when you require them. No need to pre-specify them in "__init__" as in Classes. This makes the programming process much more simpler.
+
+
+Disadvantage of using OO
+1. Specifying variables as self.variable first in "__init__" and then again in the various methods is a bit cumbersome.
+2. Thinking through the classes that need to be made is difficult. Further linking classes requires a little practice to master.
+
+Disadvantage of using dictionaries
+1. Dictionaries restrict the usage of a particular dataset in a particular manner, reformatting data in the same dictionary is difficult.
+2. Parsing nested dictionaries becomes excessively cumbersome sometimes.
+
+Performance comparison for grading operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N:100
+2. Time by OO: 0.11675620079040527
+3. Time by dictionary:0.7630987167358398
+4. X is faster; fraction of time x took is: OO is faster;0.153002
+
+Performance comparison for search operation (give in each line: value of N; time taken by two approaches in seconds, and which is faster and by how much).
+1. N:9
+2. Time by OO:0.003184795379638672
+3. Time by dictionary:0.0010023117065429688
+4. X is faster; fraction of time x took is: Dictionary is faster;0.314698

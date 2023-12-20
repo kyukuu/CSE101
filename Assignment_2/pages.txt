@@ -1,0 +1,10 @@
+URL00, 0.5: This is page zero, and has references to URL01, URL09, and also to URL08. It may have repeated references - so there are two references to URL09.
+URL01, 0.2: URL07 URL08 and URL00 wot
+URL02, 0.6: This is another page (page is represented as a line in this). This has reference to URL05, URL04, and URL00
+URL03, 0.9: This is page three, about these pages URL01, URL08, URL09 and URL05
+URL04, 0.1: Page four, referred to files URL07, URL06 and URL09
+URL05, 0.3: The list of pages URL06, URL01, URL00 won't end just like assignments
+URL06, 0.8: This page contains reference to URL04, URL05, URL00, URL01 and URL08 on how to do assignments
+URL07, 0.4: More pages like URL03, URL09, URL00 on why foobar < ieee
+URL08, 0.7: Some more pages URL09, URL01, URL07 and URL04
+URL09, 1.0: ends after pages URL01, URL08, URL07, URL06, URL03, URL02 and URL04
